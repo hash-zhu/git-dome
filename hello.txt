@@ -4,7 +4,7 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!
+hello git! git pull
 hello git! master test
 hello git! hot-fix test
 hello git! 33333333333333333333
